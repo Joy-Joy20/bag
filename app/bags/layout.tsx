@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Bag Shop",
-  description: "Welcome to Bag Shop",
+  description: "Bag Details Page",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
